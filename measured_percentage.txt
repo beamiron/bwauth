@@ -749,3 +749,4 @@ NOTICE[Thu Sep 01 06:45:06 2016]:Measured 99.7% of all tor nodes (99.9% of previ
 NOTICE[Thu Sep 01 07:45:06 2016]:Measured 99.7% of all tor nodes (99.9% of previous consensus bw).
 NOTICE[Thu Sep 01 08:45:06 2016]:Measured 99.7% of all tor nodes (99.9% of previous consensus bw).
 NOTICE[Thu Sep 01 09:45:06 2016]:Measured 99.7% of all tor nodes (99.9% of previous consensus bw).
+NOTICE[Thu Sep 01 10:45:06 2016]:Measured 99.7% of all tor nodes (99.9% of previous consensus bw).
